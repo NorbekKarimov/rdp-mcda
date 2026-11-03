@@ -1,0 +1,7 @@
+# large inputs and intermediate maps are not versioned
+data/**/*.npy
+data/**/*.tif
+results/**/maps/
+*.pyc
+__pycache__/
+.venv/
